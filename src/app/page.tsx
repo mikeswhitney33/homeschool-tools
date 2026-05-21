@@ -65,6 +65,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "printable", "K"],
     status: "ready",
   },
+  {
+    slug: "ten-frame-builder",
+    title: "Ten-Frame Builder",
+    blurb: "Interactive two-frame manipulative for modeling early addition. Click to fill counters.",
+    tags: ["math", "interactive", "K"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
