@@ -30,6 +30,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "printable", "5th"],
     status: "ready",
   },
+  {
+    slug: "trace-a-name",
+    title: "Trace-a-Name",
+    blurb: "Type any name or short word, get a printable tracing worksheet with handwriting rule lines.",
+    tags: ["writing", "printable", "K"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
