@@ -128,6 +128,13 @@ const TOOLS: Tool[] = [
     tags: ["vocabulary", "interactive", "5th"],
     status: "ready",
   },
+  {
+    slug: "parts-of-speech",
+    title: "Parts of Speech Sorter",
+    blurb: "Tag every highlighted word in a sentence as noun, verb, or adjective. Score and best round saved.",
+    tags: ["grammar", "interactive", "3rd"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
