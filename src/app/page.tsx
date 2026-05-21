@@ -44,6 +44,13 @@ const TOOLS: Tool[] = [
     tags: ["writing", "printable", "3rd"],
     status: "ready",
   },
+  {
+    slug: "long-division",
+    title: "Long Division Lab",
+    blurb: "Long division worksheets with optional scaffold rows under the bracket. Configurable digits and remainders.",
+    tags: ["math", "printable", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
