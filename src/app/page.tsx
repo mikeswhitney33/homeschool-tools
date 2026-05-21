@@ -100,6 +100,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "interactive", "5th"],
     status: "ready",
   },
+  {
+    slug: "calendar-board",
+    title: "Calendar & Weather Board",
+    blurb: "Daily morning meeting board. Today's date, day & month tiles, weather picker, daily streak.",
+    tags: ["calendar", "daily", "K"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
