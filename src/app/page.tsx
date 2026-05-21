@@ -37,6 +37,13 @@ const TOOLS: Tool[] = [
     tags: ["writing", "printable", "K"],
     status: "ready",
   },
+  {
+    slug: "cursive-tracing",
+    title: "Cursive Tracing Sheets",
+    blurb: "Cursive practice for the full alphabet or any custom word list. Four-line rule, faded tracing rows.",
+    tags: ["writing", "printable", "3rd"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
