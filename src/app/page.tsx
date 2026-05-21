@@ -16,6 +16,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "printable", "K–6"],
     status: "ready",
   },
+  {
+    slug: "regroup-racer",
+    title: "Regroup Racer",
+    blurb: "Multi-digit addition & subtraction with optional regrouping helper boxes. Pick digits, mode, and count.",
+    tags: ["math", "printable", "3rd"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
