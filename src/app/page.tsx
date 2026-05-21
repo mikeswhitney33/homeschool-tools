@@ -51,6 +51,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "printable", "5th"],
     status: "ready",
   },
+  {
+    slug: "fact-family-triangles",
+    title: "Fact Family Triangles",
+    blurb: "Multiplication & division fact family triangles. Blank the product, the factor, or both.",
+    tags: ["math", "printable", "3rd"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
