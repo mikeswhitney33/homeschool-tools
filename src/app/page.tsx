@@ -93,6 +93,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "interactive", "5th"],
     status: "ready",
   },
+  {
+    slug: "factor-tree",
+    title: "Factor Tree & GCF / LCM",
+    blurb: "Build a prime factor tree for any number. Compare two numbers to find their GCF and LCM.",
+    tags: ["math", "interactive", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
