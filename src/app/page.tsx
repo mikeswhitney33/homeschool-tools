@@ -121,6 +121,13 @@ const TOOLS: Tool[] = [
     tags: ["typing", "interactive", "5th"],
     status: "ready",
   },
+  {
+    slug: "roots-matcher",
+    title: "Roots & Affixes Matcher",
+    blurb: "Greek and Latin roots, prefixes, suffixes. Flashcards plus multiple-choice quiz with best-streak memory.",
+    tags: ["vocabulary", "interactive", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
