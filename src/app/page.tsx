@@ -23,6 +23,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "printable", "3rd"],
     status: "ready",
   },
+  {
+    slug: "order-of-ops",
+    title: "Order of Operations",
+    blurb: "PEMDAS worksheet generator. Three tiers: no parens, with parens, or with exponents.",
+    tags: ["math", "printable", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
