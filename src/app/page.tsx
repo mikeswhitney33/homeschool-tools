@@ -86,6 +86,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "interactive", "3rd", "5th"],
     status: "ready",
   },
+  {
+    slug: "coordinate-mystery",
+    title: "Coordinate Mystery Picture",
+    blurb: "Plot ordered pairs in Quadrant 1, connect them step by step, and reveal a hidden picture.",
+    tags: ["math", "interactive", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
