@@ -72,6 +72,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "interactive", "K"],
     status: "ready",
   },
+  {
+    slug: "fraction-pizza",
+    title: "Fraction Pizza Builder",
+    blurb: "Slice a pizza into halves, thirds, fourths, and more. Click slices to see the fraction update.",
+    tags: ["math", "interactive", "3rd"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
