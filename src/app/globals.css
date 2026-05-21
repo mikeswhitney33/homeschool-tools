@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0f172a;
+  --color-paper: #fafafa;
+}
+
+html, body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+
+@media print {
+  .no-print { display: none !important; }
+  @page { size: letter portrait; margin: 0.25in; }
+  body { background: #fff !important; }
+}
