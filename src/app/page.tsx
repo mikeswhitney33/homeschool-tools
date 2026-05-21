@@ -58,6 +58,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "printable", "3rd"],
     status: "ready",
   },
+  {
+    slug: "count-the-dots",
+    title: "Count the Dots",
+    blurb: "Counting worksheet with random dot arrays from 1-20 in ten-frame or scattered layouts.",
+    tags: ["math", "printable", "K"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
