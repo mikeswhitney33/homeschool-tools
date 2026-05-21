@@ -79,6 +79,13 @@ const TOOLS: Tool[] = [
     tags: ["math", "interactive", "3rd"],
     status: "ready",
   },
+  {
+    slug: "place-value-slider",
+    title: "Place Value Slider",
+    blurb: "Set each digit and watch standard, expanded, and word forms update live. Whole numbers or decimals.",
+    tags: ["math", "interactive", "3rd", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
