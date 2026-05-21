@@ -107,6 +107,13 @@ const TOOLS: Tool[] = [
     tags: ["calendar", "daily", "K"],
     status: "ready",
   },
+  {
+    slug: "states-capitals",
+    title: "States & Capitals Drill",
+    blurb: "Multiple-choice quiz for all 50 US states and capitals. Three modes, region filter, best-streak memory.",
+    tags: ["geography", "interactive", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
