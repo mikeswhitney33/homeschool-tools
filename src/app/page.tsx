@@ -114,6 +114,13 @@ const TOOLS: Tool[] = [
     tags: ["geography", "interactive", "5th"],
     status: "ready",
   },
+  {
+    slug: "typing-sprint",
+    title: "Typing Sprint",
+    blurb: "Timed typing drill with science, history, and geography passages. Live WPM and accuracy, personal best saved.",
+    tags: ["typing", "interactive", "5th"],
+    status: "ready",
+  },
 ];
 
 export default function Home() {
